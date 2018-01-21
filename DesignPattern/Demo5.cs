@@ -66,7 +66,7 @@ namespace DesignPattern
             }
         }*/
 
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             var parent = new Person { Name = "john" };
             var child1 = new Person { Name = "nick" };
@@ -82,6 +82,7 @@ namespace DesignPattern
 
             Console.ReadKey();
         }
+        */
     }
 
 }
